@@ -1,5 +1,5 @@
 ---
-title: COMO SER COMO PATO
+title: wala wala
 date: 2019-09-07T05:42:28.441Z
 subtitle: If you have ever built an application which needs to take a screenshot
   of itself, then this blog tells you how to do the same for web.
